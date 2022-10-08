@@ -1,8 +1,10 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q114507955,Deputy Prime Minister of Eswatini,Q1050,Q1050,,,,,,,
-Q98886217,Finance Minister of Eswatini,Q1050,,,,,,,,
+Q98886217,Finance Minister of Eswatini,Q1050,,,Q97159883,,,,,
 Q21296436,Member of the House of Assembly of Swaziland,Q1050,Q1050,,,,,,,
 Q21295151,Member of the Senate of Swaziland,Q1050,Q1050,,,,,,,
+Q114515701,Minister of Agriculture,Q1050,Q1050,,,,,,,
+Q114508011,"Minister of Commerce, Industry and Trade of Eswatini",Q1050,Q1050,,,,,,,
 Q114508179,Minister of Economic Planning of Eswatini,Q1050,Q1050,,,,,,,
 Q114508158,Minister of Education and Training of Eswatini,Q1050,Q1050,,,,,,,
 Q18204393,Minister of Foreign Affairs,Q1050,Q1050,,,,,,,Ministry of Foreign Affairs and International Cooperation (Eswatini)

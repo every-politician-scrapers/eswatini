@@ -1,4 +1,6 @@
 id,name,relationship,relative,relativename
+Q467866,Sikhanyiso Dlamini,father,Q57340,Mswati III
+Q467866,Sikhanyiso Dlamini,mother,Q17489755,Sibonelo Mngometulu
 Q57340,Mswati III,child,Q467866,Sikhanyiso Dlamini
 Q57340,Mswati III,father,Q379576,Sobhuza II
 Q57340,Mswati III,mother,Q444261,Ntombi of Swaziland
