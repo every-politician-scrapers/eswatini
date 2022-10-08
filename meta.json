@@ -1,9 +1,9 @@
 {
     "jurisdiction": {
-        "name": "XXX",
-        "id": "Qxxx"
+        "name": "Eswatini",
+        "id": "Q1050"
     },
     "cabinet": {
-        "parent": "Qxxx"
+        "parent": "Q97473385"
     }
 }
