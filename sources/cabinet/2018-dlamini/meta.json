@@ -1,0 +1,18 @@
+{
+    "jurisdiction": {
+        "name": "Eswatini",
+        "id": "Q1050"
+    },
+    "cabinet": {
+      "id":     "Q114513825",
+      "start":  "2018-11-02",
+      "end":    "2020-12-13",
+      "parent": "Q97473385"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Cabinet_of_Eswatini"
+    },
+    "person_description": {
+        "en": "politician in Eswatini"
+    }
+}
