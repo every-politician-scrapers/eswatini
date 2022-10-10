@@ -43,7 +43,13 @@
               "text": "His family moved from South Africa to Swaziland in 1970."
             },
             {
-              "text": "Rijkenberg previously served as CEO of timber producer Montigny investments."
+              "text": "Rijkenberg previously served as CEO of timber producer Montigny investments and co-founded Bulembu Ministries Eswatini.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bulembu"
+                }
+              ]
             },
             {
               "text": "A self-described proponent of a free-market economy, he supports slashing labour and competition regulations.",
