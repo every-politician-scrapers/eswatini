@@ -1,7 +1,7 @@
 who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
 39325267,Prime Minister of Eswatini,Acting Prime Minister of Eswatini,2020-12-13,2021-07-19,Q57973856,Ambrose Mandvulo Dlamini,Q107600891,Cleopas Dlamini,0
-39325267,Prime Minister of Eswatini,Deputy Prime Minister of Eswatini,2018-11-06,,Paul Dlamini,Paul Dlamini,,,1
-39325267,,,2008,2013,,,Paul Dlamini,Paul Dlamini,2
+39325267,Prime Minister of Eswatini,Deputy Prime Minister of Eswatini,2018-11-06,,Q28403455,Paul Dlamini,,,1
+39325267,,,2008,2013,,,Q28403455,Paul Dlamini,2
 39325267,List of finance ministers of Eswatini,Minister for Finance,1996-11,1998-11,Derek von Wissel,Derek von Wissel,John Philip Carmichael,John Philip Carmichael,3
 39325267,,Minister for Economic Planning and Development,1993,1996,,,,,4
 39325267,,Minister for Agriculture and Cooperatives,1991,1993,,,,,5
