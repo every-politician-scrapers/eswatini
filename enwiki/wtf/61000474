@@ -1,0 +1,169 @@
+{
+  "title": "Thuli Dladla",
+  "pageID": 61000474,
+  "categories": [
+    "Swazi politicians",
+    "Foreign Ministers of Eswatini",
+    "Living people",
+    "Women government ministers of Eswatini",
+    "Year of birth missing (living people)",
+    "Female foreign ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Thuli Dladla is an Swazi politician and diplomat who has been serving as the Minister of Foreign Affairs of the Kingdom of Eswatini since November 2018.",
+              "links": [
+                {
+                  "text": "Swazi",
+                  "type": "internal",
+                  "page": "Eswatini"
+                },
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Eswatini)"
+                },
+                {
+                  "text": "Kingdom of Eswatini",
+                  "type": "internal",
+                  "page": "Eswatini"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Thuli Dladla"
+                ]
+              }
+            },
+            {
+              "text": "She is the country's first female foreign minister and was previously a senator."
+            },
+            {
+              "text": "In February 2019 she visited Taiwan and met with President Tsai Ing-wen.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tsai Ing-wen"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swazi politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Thuli Dladla"
+          },
+          "image": {
+            "text": "02.26 總統接見「史瓦帝尼王國外交暨國際合作部札杜莉部長」 (40252301413).jpg"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Eswatini)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 November 2018"
+          },
+          "monarch": {
+            "text": "Mswati III",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mswati III"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Ambrose Mandvulo Dlamini",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ambrose Mandvulo Dlamini"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Joel Musa Nhleko (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joel Musa Nhleko"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Swazi",
+            "links": [
+              {
+                "text": "Swazi",
+                "type": "internal",
+                "page": "Eswatini"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "eswatini-politician-stub"
+        }
+      ]
+    }
+  ]
+}
