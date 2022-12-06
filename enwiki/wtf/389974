@@ -609,12 +609,12 @@
         {
           "sentences": [
             {
-              "text": "Mswati contracted coronavirus disease 2019 (COVID-19) in January 2021, and later thanked Taiwan for providing antiviral medication that helped with his recovery.",
+              "text": "In January 2021, Mswati contracted COVID-19, and later thanked Taiwan for providing antiviral medication that helped with his recovery.",
               "links": [
                 {
-                  "text": "coronavirus disease 2019",
+                  "text": "COVID-19",
                   "type": "internal",
-                  "page": "coronavirus disease 2019"
+                  "page": "COVID-19 outbreak"
                 }
               ]
             },
