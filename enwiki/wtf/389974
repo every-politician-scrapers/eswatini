@@ -190,8 +190,12 @@
             ]
           },
           "spouse": {
-            "text": "15 wives concurrently\nInkhosikati LaMasango (eighth wife)",
+            "text": "15 wives concurrently\nSibonelo Mngometulu (third wife)<br\n/>Inkhosikati LaMasango (eighth wife)",
             "links": [
+              {
+                "type": "internal",
+                "page": "Sibonelo Mngometulu"
+              },
               {
                 "text": "Inkhosikati LaMasango",
                 "type": "internal",
@@ -577,10 +581,6 @@
             {
               "text": "Mswati has visited Taiwan seventeen times as of June 2018, and has promised to continue recognizing Taiwan instead of the People's Republic of China.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Taiwan"
-                },
                 {
                   "type": "internal",
                   "page": "Taiwan"
@@ -1257,7 +1257,7 @@
         {
           "sentences": [
             {
-              "text": "On 19 April 2018, King Mswati III changed the name of the country to Eswatini to mark its 50th anniversary of independence."
+              "text": "On 19 April 2018, King Mswati III changed the name of the country from Swaziland to Eswatini to mark its 50th anniversary of independence."
             },
             {
               "text": "The name change coincided with the king's birthday."
