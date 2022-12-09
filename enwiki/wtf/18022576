@@ -68,19 +68,26 @@
           "template": "birth date and age"
         },
         {
-          "template": "infobox",
-          "type": "royalty",
-          "data": {
-            "embed": {},
-            "house": {}
-          }
-        },
-        {
           "transcription": "sikʰaɲiso ɮʱamini",
           "template": "ipa"
         }
       ],
       "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "house": {
+            "text": "Dlamini",
+            "links": [
+              {
+                "text": "Dlamini",
+                "type": "internal",
+                "page": "House of Dlamini"
+              }
+            ]
+          }
+        },
         {
           "name": {
             "text": "Sikhanyiso Dlamini"
