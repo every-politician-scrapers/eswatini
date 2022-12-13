@@ -190,7 +190,7 @@
             ]
           },
           "spouse": {
-            "text": "15 wives concurrently\nSibonelo Mngometulu (third wife)<br\n/>Inkhosikati LaMasango (eighth wife)",
+            "text": "15 wives concurrently\nSibonelo Mngometulu (third wife)<br\n/>Inkhosikati LaMasango (eighth wife) Nothando Dube (twelfth wife)",
             "links": [
               {
                 "type": "internal",
@@ -200,6 +200,10 @@
                 "text": "Inkhosikati LaMasango",
                 "type": "internal",
                 "page": "Senteni Masango"
+              },
+              {
+                "type": "internal",
+                "page": "Nothando Dube"
               }
             ]
           },
